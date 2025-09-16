@@ -1,0 +1,2150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95028,
+          34.24034
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+        "title": "A Battleship, Aground, Live Fire, All Yellow",
+        "place": "Port City Marina (Wilmington, NC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9536,
+          34.2352
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+        "title": "A Battleship, Aground, Live Fire, All Yellow",
+        "place": "USS North Carolina Battleship Memorial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94471,
+          34.225726
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+        "title": "A Battleship, Aground, Live Fire, All Yellow",
+        "place": "Wilmington, North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3207,
+          34.5606
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+        "title": "A Battleship, Aground, Live Fire, All Yellow",
+        "place": "Mile Hammock Bay (Camp Lejeune)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.67873,
+          42.79285
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+        "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+        "place": "Waterford, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3955,
+          43.5553
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+        "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+        "place": "Whitehall Marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584,
+          43.267
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+        "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+        "place": "Fort Edward, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.402,
+          43.552
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+        "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+        "place": "Whitehall, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6798,
+          42.7907
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+        "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+        "place": "Lock One Marina (Waterford, NY)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.083,
+          41.521
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "Des Plaines River (IL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.039,
+          30.695
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "Mobile, Alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6138,
+          41.8886
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "Chicago Lock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.803,
+          41.806
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "Chicago Sanitary and Ship Canal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "Chicago, Illinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.614,
+          41.8874
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+        "title": "A Dip Into Ratty's Habitat",
+        "place": "DuSable Harbor (Chicago)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.419678,
+          44.608246
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-ashore-addendum-opp-officer-stops-cap",
+        "title": "A Great Week Ashore--Addendum:  OPP Officer Stops Cap!",
+        "place": "Orillia, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4193,
+          44.6089
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-ashore-addendum-opp-officer-stops-cap",
+        "title": "A Great Week Ashore--Addendum:  OPP Officer Stops Cap!",
+        "place": "Orillia Rotary Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.883,
+          44.75
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Midland, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71586446255992,
+          44.80813620305364
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Starport Severn – Upper Marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76083333333334,
+          44.79361111111111
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Potato Island (Severn Sound, Georgian Bay)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.690331,
+          44.389355
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Barrie, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.674139,
+          44.884722
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Big Chute Marine Railway (Lock 44)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.716902,
+          44.805077
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+        "title": "A Great Week Living Ashore",
+        "place": "Port Severn, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2169,
+          30.4213
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/a-holiday-word-from-the-bosun",
+        "title": "A Holiday Word from the Bosun",
+        "place": "Pensacola, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.15,
+          33.601
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/addendum-love-the-waccamaw",
+        "title": "Addendum--Love the Waccamaw",
+        "place": "Waccamaw National Wildlife Refuge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28,
+          33.367
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/addendum-love-the-waccamaw",
+        "title": "Addendum--Love the Waccamaw",
+        "place": "Georgetown, South Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0831,
+          33.5468
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/addendum-love-the-waccamaw",
+        "title": "Addendum--Love the Waccamaw",
+        "place": "Wacca Wache Marina (Murrells Inlet, SC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.514,
+          44.8175
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/after-the-big-chute-another-leg-behind-us",
+        "title": "After the Big Chute, Another Leg Behind Us",
+        "place": "Severn Falls (Riverhouse Dock)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445,
+          40.6892
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Statue of Liberty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8899,
+          41.1902
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Half Moon Bay Marina (Croton-on-Hudson, NY)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0169,
+          40.7155
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "North Cove Marina (Battery Park City, NYC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0447,
+          40.6066
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Verrazzano-Narrows Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9969,
+          40.7061
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Brooklyn Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0396,
+          40.6995
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Ellis Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168,
+          40.6895
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+        "title": "Always a Tingle--You Gotta Love New York",
+        "place": "Governors Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3973,
+          27.6386
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "Vero Beach, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.385,
+          27.66
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "Loggerhead Marina – Vero Beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4752,
+          27.0272
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "Indiantown Marina (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2854,
+          27.1114
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "St. Lucie Lock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.807,
+          28.615
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "Titusville – Kennedy Point Marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.216,
+          27.262
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+        "title": "And the Rocket's Red Glare!",
+        "place": "Nettles Island Marina (Jensen Beach, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1089,
+          42.7875
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-they-re-off",
+        "title": "And, They're Off!",
+        "place": "Holland, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.118,
+          42.775
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/and-they-re-off",
+        "title": "And, They're Off!",
+        "place": "Lake Macatawa (MI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2619,
+          45.3059
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Le Nautique de St‑Jean (Saint‑Jean‑sur‑Richelieu, QC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2551,
+          45.1285
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Marina Gosselin (Saint-Paul-de-l’Île-aux-Noix, QC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25,
+          45.3
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Richelieu River (QC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3629,
+          44.992
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Rouses Point, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.275,
+          45.43
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Marina Lake Chambly (QC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3667,
+          44.9936
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Fort Montgomery (Rouses Point)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2894,
+          45.4462
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+        "title": "Au Canada; Two Good Days!",
+        "place": "Fort Chambly (QC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3343,
+          43.8547
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/back-on-a-roll",
+        "title": "Back On a Roll!",
+        "place": "Chipman Point Marina (Orwell, VT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9337,
+          26.754
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+        "title": "Cap 1; Alligators 0.  No Rematch Offered",
+        "place": "Clewiston, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6129,
+          26.989
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+        "title": "Cap 1; Alligators 0.  No Rematch Offered",
+        "place": "Port Mayaca Lock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9495,
+          26.5629
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+        "title": "Cap 1; Alligators 0.  No Rematch Offered",
+        "place": "Cape Coral, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7278,
+          45.8164
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/haven-t-crossed-our-wake-yet-but-back-in-lake-michigan",
+        "title": "Haven't Crossed Our Wake Yet but Back in Lake Michigan!",
+        "place": "Straits of Mackinac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6189,
+          45.8483
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/haven-t-crossed-our-wake-yet-but-back-in-lake-michigan",
+        "title": "Haven't Crossed Our Wake Yet but Back in Lake Michigan!",
+        "place": "Mackinac Island, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759,
+          45.0236
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/haven-t-crossed-our-wake-yet-but-back-in-lake-michigan",
+        "title": "Haven't Crossed Our Wake Yet but Back in Lake Michigan!",
+        "place": "Leland, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9926,
+          45.4318
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/haven-t-crossed-our-wake-yet-but-back-in-lake-michigan",
+        "title": "Haven't Crossed Our Wake Yet but Back in Lake Michigan!",
+        "place": "Harbor Springs, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51,
+          45.494
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/headed-northwest",
+        "title": "Headed Northwest!",
+        "place": "Saint‑Lambert Lock (Seaway)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.409,
+          45.674
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/headed-northwest",
+        "title": "Headed Northwest!",
+        "place": "Brownsburg, Quebec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6972,
+          45.4215
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/headed-northwest",
+        "title": "Headed Northwest!",
+        "place": "Ottawa, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95,
+          45.45
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/headed-northwest",
+        "title": "Headed Northwest!",
+        "place": "Lac des Deux Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258,
+          45.318
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hopscotch",
+        "title": "Hopscotch",
+        "place": "Charlevoix, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7624,
+          45.0208
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hopscotch",
+        "title": "Hopscotch",
+        "place": "Van's Beach (Leland, MI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76,
+          45.0227
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hopscotch",
+        "title": "Hopscotch",
+        "place": "Fishtown (Leland, MI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.702,
+          40.581
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+        "title": "How Low Can You Go?",
+        "place": "Peoria Lock and Dam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5889,
+          40.6936
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+        "title": "How Low Can You Go?",
+        "place": "Peoria, Illinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6129,
+          40.6569
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+        "title": "How Low Can You Go?",
+        "place": "Illinois Valley Yacht Club (Peoria)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.301,
+          29.811
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Point South Marina (Port St. Joe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.419,
+          29.949
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Mexico Beach, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.664,
+          29.851
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Carrabelle, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.302,
+          29.812
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Port St. Joe, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66,
+          30.158
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Panama City, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.583,
+          29.813
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/hunkered-down",
+        "title": "Hunkered Down",
+        "place": "Dog Island Anchorage (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.229,
+          37.003
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/if-it-were-easy",
+        "title": "If It Were Easy . . .",
+        "place": "Green Turtle Bay (Grand Rivers, KY)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.948,
+          36.778
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/if-it-were-easy",
+        "title": "If It Were Easy . . .",
+        "place": "Barkley Marina (Lake Barkley, KY)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.134,
+          36.766
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/if-it-were-easy",
+        "title": "If It Were Easy . . .",
+        "place": "KenLake Marina (KY Lake)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.364,
+          36.5107
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/if-it-were-easy",
+        "title": "If It Were Easy . . .",
+        "place": "Clarksville Marina (TN)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7013,
+          45.4765
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+        "title": "Il Fait Chaud Aujord'hui",
+        "place": "Gatineau, Quebec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486,
+          44.2312
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+        "title": "Il Fait Chaud Aujord'hui",
+        "place": "Kingston, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9405,
+          45.6513
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+        "title": "Il Fait Chaud Aujord'hui",
+        "place": "Montebello, Quebec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9494,
+          45.6497
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+        "title": "Il Fait Chaud Aujord'hui",
+        "place": "Fairmont Le Château Montebello"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7132,
+          45.4305
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+        "title": "Il Fait Chaud Aujord'hui",
+        "place": "Marina de Hull (Gatineau)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28,
+          44.788
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+        "title": "It Just Gets Better!",
+        "place": "Colonel By Island (Big Rideau Lake)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3974,
+          44.6783
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+        "title": "It Just Gets Better!",
+        "place": "Westport, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.137,
+          44.823
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+        "title": "It Just Gets Better!",
+        "place": "Rideau Ferry (ON)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8361,
+          44.9075
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+        "title": "It Just Gets Better!",
+        "place": "Merrickville, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4807,
+          44.2316
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+        "title": "Canada Day, Before and After!",
+        "place": "Confederation Basin Marina (Kingston)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4709,
+          44.2319
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+        "title": "Canada Day, Before and After!",
+        "place": "LaSalle Causeway (Kingston)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.551,
+          44.2165
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+        "title": "Canada Day, Before and After!",
+        "place": "Portsmouth Olympic Harbour (Kingston)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0216,
+          44.9032
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/lock-after-lock-after-lock",
+        "title": "Lock after Lock after Lock",
+        "place": "Smiths Falls, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6,
+          37.083
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/so-much-to-share",
+        "title": "So Much to Share!",
+        "place": "Paducah, Kentucky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.443,
+          44.2855
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/special-edition-happy-canada-day",
+        "title": "Special Edition!  Happy Canada Day.",
+        "place": "Kingston Mills Locks (Rideau Canal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3565,
+          44.4095
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/special-edition-happy-canada-day",
+        "title": "Special Edition!  Happy Canada Day.",
+        "place": "Upper Brewers Locks (Rideau Canal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7192,
+          30.1695
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-andrews-panama-city",
+        "title": "St. Andrews, Panama City",
+        "place": "St. Andrews Marina (Panama City, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.663,
+          30.152
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-andrews-panama-city",
+        "title": "St. Andrews, Panama City",
+        "place": "Panama City Marina (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7568,
+          28.1461
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "Tarpon Springs, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3101,
+          29.8929
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "Bridge of Lions (St. Augustine)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2885,
+          29.8767
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "St. Augustine Alligator Farm Zoological Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3114,
+          29.8978
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "Castillo de San Marcos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.279,
+          29.857
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "St. Augustine Beach, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3124,
+          29.9012
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "St. Augustine, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29,
+          29.883
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+        "title": "St. Augustine Shennanigans",
+        "place": "Anastasia Island, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6646,
+          29.8528
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+        "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+        "place": "Carrabelle River (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.226,
+          29.847
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+        "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+        "place": "Lake Wimico (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.248,
+          29.8515
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+        "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+        "place": "Gulf County Canal (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9,
+          29.667
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+        "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+        "place": "Apalachicola Bay (FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6883,
+          32.3411
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Parris Island (MCRD), SC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6698,
+          32.4316
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Beaufort, South Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0912,
+          32.0809
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Savannah, Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0495,
+          32.0338
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Thunderbolt, Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7584,
+          32.2019
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Windmill Harbour (Hilton Head Island, SC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8604,
+          32.2371
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Bluffton, South Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.815,
+          32.129
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+        "title": "Surviving a Gale in Hilton Head",
+        "place": "Calibogue Sound (SC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816,
+          36.1627
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+        "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+        "place": "Nashville, Tennessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9016,
+          36.127
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+        "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+        "place": "Commodore Yacht Club (Nashville)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1156,
+          36.3094
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+        "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+        "place": "Cheatham Lock and Dam (TN)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9159,
+          30.528
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/tenn-tom-is-behind-us",
+        "title": "Tenn-Tom Is Behind Us",
+        "place": "Mobile Bay, Alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8375,
+          32.5179
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/tenn-tom-is-behind-us",
+        "title": "Tenn-Tom Is Behind Us",
+        "place": "Demopolis, Alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4543,
+          27.0998
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Venice, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.636,
+          27.3837
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Longboat Key, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4928,
+          27.1839
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Blackburn Point Bridge (Osprey, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0001,
+          26.5337
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Tarpon Point Marina (Cape Coral, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43,
+          27.068
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Shamrock Park (Venice, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4583,
+          27.1134
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "Albee Road Bridge (Nokomis, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6403,
+          27.7676
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+        "title": "The End of the Gulf ICW",
+        "place": "St. Petersburg, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6958,
+          35.031
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+        "title": "The Muse, the Muse, Oh Where Is the Muse??",
+        "place": "Oriental, North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6222,
+          35.5402
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+        "title": "The Muse, the Muse, Oh Where Is the Muse??",
+        "place": "Belhaven, North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2859,
+          36.8508
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+        "title": "The Muse, the Muse, Oh Where Is the Muse??",
+        "place": "Norfolk, Virginia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6703,
+          34.7199
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+        "title": "The Muse, the Muse, Oh Where Is the Muse??",
+        "place": "Town Creek Marina (Beaufort, NC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6206,
+          28.6271
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+        "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+        "place": "Launch Complex 39B (KSC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6041,
+          28.6084
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+        "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+        "place": "Launch Complex 39A (KSC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0228,
+          29.2108
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+        "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+        "place": "Daytona Beach, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6508,
+          28.5857
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+        "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+        "place": "Vehicle Assembly Building (KSC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.681,
+          28.5233
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+        "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+        "place": "Kennedy Space Center Visitor Complex"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4626,
+          30.6697
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+        "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+        "place": "Fernandina Beach (Amelia Island, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.447,
+          30.5927
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+        "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+        "place": "Amelia Island, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5465,
+          30.7305
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+        "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+        "place": "St. Marys, Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.462,
+          30.6712
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+        "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+        "place": "Oasis Marina (Fernandina Beach, FL)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9,
+          45.9922
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+        "title": "They Let Us Back In!  And More.",
+        "place": "DeTour Village, Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.549,
+          46.255
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+        "title": "They Let Us Back In!  And More.",
+        "place": "Thessalon, Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6256,
+          45.8514
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+        "title": "They Let Us Back In!  And More.",
+        "place": "Grand Hotel (Mackinac Island)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.957,
+          46.183
+        ]
+      },
+      "properties": {
+        "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+        "title": "They Let Us Back In!  And More.",
+        "place": "Blind River, Ontario"
+      }
+    }
+  ]
+}

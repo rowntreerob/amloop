@@ -8,7 +8,7 @@ st.set_page_config(page_title="Great Loop Map", layout="wide")
 st.title("America's Great Loop — Blog Map")
 
 # Choose GeoJSON file
-default_geo = Path("/mnt/chromeos/MyFiles/Downloads/great-loop-places-001_plus_demo1_plus_demo2_plus_demo3.geojson")
+default_geo = Path("./greatloopplaces-001.geojson")
 geo_path = st.file_uploader("Upload GeoJSON", type=["geojson"], accept_multiple_files=False)
 if geo_path is None and default_geo.exists():
     geo_data = json.loads(default_geo.read_text(encoding="utf-8"))
