@@ -4,8 +4,18 @@ import streamlit as st
 import folium
 from streamlit.components.v1 import html as st_html
 
-st.set_page_config(page_title="Great Loop Map", layout="wide")
-st.title("America's Great Loop — Blog Map")
+# st.set_page_config(page_title="Great Loop Map", layout="wide")
+st.set_page_config(layout="wide")
+st.markdown("""
+    <style>
+        .block-container {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+        }
+    </style>
+""", unsafe_allow_html=True)
+st.markdown("## America's Great Loop — Blog Map Index")
+# st.title("America's Great Loop — Blog Map Index")
 
 # Choose GeoJSON file
 default_geo = Path("./greatloopplaces-001.geojson")
