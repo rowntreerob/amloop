@@ -9,11 +9,16 @@ st.title("America's Great Loop — Blog Map")
 
 # Choose GeoJSON file
 default_geo = Path("./greatloopplaces-001.geojson")
-geo_path = st.file_uploader("Upload GeoJSON", type=["geojson"], accept_multiple_files=False)
-if geo_path is None and default_geo.exists():
+# geo_path = st.file_uploader("Upload GeoJSON", type=["geojson"], accept_multiple_files=False)
+# if geo_path is None and default_geo.exists():
+#    geo_data = json.loads(default_geo.read_text(encoding="utf-8"))
+# elif geo_path is not None:
+#    geo_data = json.loads(geo_path.read().decode("utf-8"))
+# else:
+#    st.warning("Upload a GeoJSON file with features containing properties: url, title, place.")
+#    st.stop()
+if default_geo.exists():
     geo_data = json.loads(default_geo.read_text(encoding="utf-8"))
-elif geo_path is not None:
-    geo_data = json.loads(geo_path.read().decode("utf-8"))
 else:
     st.warning("Upload a GeoJSON file with features containing properties: url, title, place.")
     st.stop()
